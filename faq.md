@@ -1,16 +1,4 @@
-# Оглавление
-
-- [301 редирект][1]
-
-***
-
-# [1] 301 редирект
-
->RewriteCond %{HTTP_HOST} ^www\.(.*)$
->RewriteRule ^(.*)$ http://%1/$1 [L,R=301]
->RewriteCond %{HTTPS} off
->RewriteCond %{HTTP:X-Forwarded-Proto} !https
->RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
-
-
-
+# Как поступить?
+## На бюджет
+Когда подавать заявления через мос.ру?
+>Подача электронных заявлений осуществляется через Портал Мэра Москвы с 20 июня по 15 августа.
