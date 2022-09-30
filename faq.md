@@ -1,5 +1,5 @@
 # Оглавление
-<div id="index"></div>
+<div hidden="true" id="index"></div>
 - [Когда дни открытых дверей?](#q5)
 - [Какие проходные баллы были на бюджет в прошлом году?](#q11)
 - [Как поступить?](#q1)
@@ -15,47 +15,47 @@
 
 ***
 
-<div id="q5"></div>
+<div hidden="true" id="q5"></div>
 # Когда дни открытых дверей?
 > Дни открытых дверей публикуются на странице [artcollege.ru/dod](https://artcollege.ru/dod)
 
-<div id="q11"></div>
+<div hidden="true" id="q11"></div>
 # Какие проходные баллы были на бюджет в прошлом году?
 > [Проходные баллы прошлого года](https://files.1-mok.ru/reception/ball/2022/30.08.pdf)
 
-<div id="q1"></div>
+<div hidden="true" id="q1"></div>
 # Как поступить?
 
-<div id="q2"></div>
+<div hidden="true" id="q2"></div>
 ## Как поступить на бюджет
 
-<div id="q3"></div>
+<div hidden="true" id="q3"></div>
 ### Когда подавать заявления через мос.ру?
 >Подача электронных заявлений осуществляется через [Портал Мэра Москвы mos.ru](https://www.mos.ru) с **20 июня по 15 августа**.
 
 [Оглавление ^](#index)
 
-<div id="q10"></div>
+<div hidden="true" id="q10"></div>
 ## Как поступить на платное (внебюджет)
 
-<div id="q9"></div>
+<div hidden="true" id="q9"></div>
 ### Стоимость обучения
 
-<div id="q6"></div>
+<div hidden="true" id="q6"></div>
 #### Очное
 >130 000 р. в год.
 
-<div id="q7"></div>
+<div hidden="true" id="q7"></div>
 #### Заочное
 >50 000 р. в год.
 
-<div id="q8"></div>
+<div hidden="true" id="q8"></div>
 #### Очно-заочное
 >65 000 р. в год.
 
 [Оглавление ^](#index)
 
-<div id="q4"></div>
+<div hidden="true" id="q4"></div>
 # Есть общежитие?
 >Общежития нет.
 
