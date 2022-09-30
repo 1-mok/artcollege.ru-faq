@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "faq.md",
+            "file": "сhat.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "faq.md",
+                "file": "сhat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "faq.md",
+                "file": "сhat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "faq.md"
+                "file": "сhat.md"
               }
             }
           }
@@ -126,12 +126,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 248.5
   },
   "active": "09477b98ac45f65f",
   "lastOpenFiles": [
-    "сhat.md",
     "faq.md",
+    "сhat.md",
     "[.md"
   ]
 }
