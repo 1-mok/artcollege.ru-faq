@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "92ddc60a9ac6e7e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d855cbe70b2c34e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09477b98ac45f65f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "сhat.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12f714dda5f35339",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b79a99999105e89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c714abc67252cff3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1423d08e9313d833",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9713a44eb29fc009",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc291fda477937fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "86c53fb8c5ec7d9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93e95407720727d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "сhat.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89108c41dfe3ec46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "сhat.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a97ff93a35adee84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b6c5c7c9aa3c7fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "сhat.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "1423d08e9313d833",
+  "lastOpenFiles": [
+    "faq.md",
+    "сhat.md",
+    "[.md"
+  ]
+}
