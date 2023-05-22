@@ -64,9 +64,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "80db49208123aabb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,10 +144,17 @@
     "direction": "horizontal",
     "width": 248.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
   },
-  "active": "1423d08e9313d833",
+  "active": "09477b98ac45f65f",
   "lastOpenFiles": [
     "faq.md",
     "сhat.md",
